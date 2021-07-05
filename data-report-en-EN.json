@@ -1,0 +1,246 @@
+{
+  "name": "Schroders GIS 2021 Report",
+  "description": "#",
+  "version": "1.0",
+  "lang": "en-EN",
+  "ref": "",
+  "cover": {
+    "elements": [
+      {
+        "type": "image",
+        "name": "logo_symbol",
+        "url": "img/symbol.svg"
+      },
+      {
+        "type": "image",
+        "name": "hero_bg",
+        "url": "img/hero-bg-100.jpg"
+      },
+      {
+        "type": "html",
+        "name": "Link to hub",
+        "html": "<a href='' class='report__link clearfix'>Go back to the GIS 2020 hub<span>See our key findings</span></a>"
+      },
+      {
+        "type": "html",
+        "name": "Link to Infographic PDF",
+        "html": "<a href='' class='report__link clearfix'>Infographic header here<span>Read the infographic</span></a>"
+      }
+    ]
+  },
+  "toc": {
+    "elements": [
+      {
+        "type": "html",
+        "name": "toc_link",
+        "html": "<a href='#sc-art-1'>Overview</a>"
+      },
+      {
+        "type": "html",
+        "name": "toc_link",
+        "html": "<a href='#sc-art-2'>Article two title goes here</a>"
+      },
+      {
+        "type": "html",
+        "name": "toc_link",
+        "html": "<a href='#sc-art-3'>Article two title goes here</a>"
+      },
+      {
+        "type": "html",
+        "name": "toc_link",
+        "html": "<a href='#sc-art-4'>Article two title goes here</a>"
+      },
+      {
+        "type": "html",
+        "name": "toc_link",
+        "html": "<a href='#sc-art-5'>Article two title goes here</a>"
+      },
+      {
+        "type": "html",
+        "name": "toc_link",
+        "html": "<a href='#sc-art-6'>Article two title goes here</a>"
+      },
+      {
+        "type": "html",
+        "name": "toc_link",
+        "html": "<a href='#sc-art-7'>Article two title goes here</a>"
+      },
+      {
+        "type": "html",
+        "name": "toc_link",
+        "html": "<a href='#sc-art-8'>Article two title goes here</a>"
+      },
+      {
+        "type": "html",
+        "name": "toc_link",
+        "html": "<a href='#sc-art-9'>Article two title goes here</a>"
+      },
+      {
+        "type": "html",
+        "name": "toc_link",
+        "html": "<a href='#sc-art-10'>Article two title goes here</a>"
+      },
+      {
+        "type": "html",
+        "name": "toc_back_link",
+        "html": "<button type='button' class='btn btn-default btn-lg center-block'>Back to GIS hub</button>"
+      }
+    ]
+  },
+  "pages": [
+    {
+      "name": "page_01",
+      "color": "light-purple",
+      "elements": [
+        {
+          "type": "image",
+          "name": "hero_image",
+          "url": "assets/files/img/art-1.png"
+        },
+        {
+          "type": "html",
+          "name": "page_title",
+          "html": "<h1 class='h1 sc-post__title'>Overview</h1>"
+        },
+        {
+          "type": "html",
+          "name": "paragraph",
+          "html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+        },
+        {
+          "type": "html",
+          "name": "heading",
+          "html": "<h2 class='h2'>Lorem ipsum dolor sit amet.</h2>"
+        },
+        {
+          "type": "html",
+          "name": "paragraph",
+          "html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+        },
+        {
+          "type": "html",
+          "name": "image",
+          "html": "<img src='https://placeimg.com/480/320/tech' alt='' class='sc-align-lef'/>"
+        },
+        {
+          "type": "html",
+          "name": "paragraph",
+          "html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+        },
+        {
+          "type": "html",
+          "name": "paragraph",
+          "html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+        },
+        {
+          "type": "html",
+          "name": "paragraph",
+          "html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+        },
+        {
+          "type": "html",
+          "name": "paragraph",
+          "html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+        },
+        {
+          "type": "html",
+          "name": "paragraph",
+          "html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+        },
+        {
+          "type": "html",
+          "name": "paragraph",
+          "html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+        },
+        {
+          "type": "html",
+          "name": "image",
+          "html": "<img src='https://placeimg.com/680/480/tech' alt='' class='sc-align-lef'/>"
+        },
+        {
+          "type": "html",
+          "name": "paragraph",
+          "html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+        },
+        {
+          "type": "html",
+          "name": "paragraph",
+          "html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+        }
+      ]
+    },
+    {
+      "name": "page_02",
+      "color": "deep-purple",
+      "elements": [
+        {
+          "type": "image",
+          "name": "hero_image",
+          "url": "assets/files/img/art-2.png"
+        },
+        {
+          "type": "html",
+          "name": "page_title",
+          "html": "<h1 class='h1 sc-post__title'>Our findings in a nutshell</h1>"
+        },
+        {
+          "type": "html",
+          "name": "paragraph",
+          "html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+        },
+        {
+          "type": "html",
+          "name": "heading",
+          "html": "<h2 class='h2'>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h2>"
+        },
+        {
+          "type": "html",
+          "name": "paragraph",
+          "html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+        },
+        {
+          "type": "html",
+          "name": "blockquote",
+          "html": "<figure class='sc-blockquote sc-align-lef'><blockquote><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p></blockquote></figure>"
+        },
+        {
+          "type": "html",
+          "name": "paragraph",
+          "html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+        },
+        {
+          "type": "html",
+          "name": "paragraph",
+          "html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+        },
+        {
+          "type": "html",
+          "name": "paragraph",
+          "html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+        },
+        {
+          "type": "html",
+          "name": "paragraph",
+          "html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+        },
+        {
+          "type": "html",
+          "name": "paragraph",
+          "html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+        },
+        {
+          "type": "html",
+          "name": "paragraph",
+          "html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+        },
+        {
+          "type": "html",
+          "name": "paragraph",
+          "html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+        }
+      ]
+    }
+  ],
+  "someMoreField": "someMoreValue",
+  "someOtherField": "someOtherValue"
+}
